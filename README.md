@@ -12,3 +12,4 @@
 
 ## <b> ➡ 聯絡我</b>：
 ・電子郵件：minnecraft.YC815@gmail.com
+・Discord：
