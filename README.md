@@ -1,4 +1,4 @@
-歡迎來到〔犽YC815｜指令道具庫〕的github的頁面！
+歡迎來到〔YC815〕的github的頁面！
 ===
 
 ## <b> ➡ 關於我</b>：
@@ -21,4 +21,6 @@
 
 ## <b> ➡ 聯絡我</b>：
 ・電子郵件：minnecraft.YC815@gmail.com
-・Discord：犽YC815#6204
+・Discord：yc815
+
+>> [自我介紹網站](https://yc815.github.io/about-me/) <<
