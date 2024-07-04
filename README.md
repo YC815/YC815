@@ -20,7 +20,7 @@
 ・Minecraft command<br><br>
 
 ## <b> ➡ 聯絡我</b>：
-・電子郵件：[yushun@yushun.asia](mailto:yushun@yushun.asia)
+・電子郵件：yushun@yushun.asia <br/>
 ・Discord：yc815
 
 
