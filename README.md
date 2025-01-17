@@ -17,7 +17,9 @@
 ・Python<br>
 ・JavaScript<br>
 ・MarkDown<br>
-・Minecraft command<br><br>
+・Minecraft command<br>
+・React<br>
+・NextJs<br><br>
 
 ## <b> ➡ 聯絡我</b>：
 ・電子郵件：yushun@chen.zone <br/>
