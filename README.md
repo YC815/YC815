@@ -1,28 +1,21 @@
-歡迎來到〔YC815〕的github的頁面！
-===
+# 🌟 Hi there! I'm [你的名字] 👋
 
-## <b> ➡ 關於我</b>：
-・是一名國中生<br>
-・喜歡做一些小小好玩的程式<br>
-・喜歡做一些好玩的Minecraft指令、資料包<br>
-・熱愛資訊科技<br><br>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=你的GitHub帳號&show_icons=true&theme=radical)
 
-## <b> ➡ 證照</b>：
-・MTA Python<br>
-・TQC Python<br><br>
+## 🚀 About Me
+💡 Passionate about [技術領域]  
+🔭 Currently working on [專案名稱]  
+🌱 Learning [學習中的技術]  
 
-## <b> ➡ 語言</b>：
-・繁體中文<br>
-・日文<br>
-・Python<br>
-・JavaScript<br>
-・MarkDown<br>
-・Minecraft command<br>
-・React<br>
-・NextJs<br><br>
+## 🛠 Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 
-## <b> ➡ 聯絡我</b>：
-・電子郵件：yushun@chen.zone <br/>
-・Discord：yc815
+## 📫 Connect with me!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](你的 LinkedIn 連結)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat&logo=twitter&logoColor=white)](你的 Twitter 連結)
 
-
+---
+🚀 **Let's create amazing things together!**
