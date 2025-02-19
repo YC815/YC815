@@ -13,7 +13,7 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 
 ## 📫 Connect with me!
-[![Instagram](https://img.shields.io/badge/Instagram-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](你的 LinkedIn 連結)
+[![Instagram](https://img.shields.io/badge/Instagram-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.instagram.com/yc815mc/)
 
 ---
 🚀 **Let's create amazing things together!**
