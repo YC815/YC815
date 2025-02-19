@@ -13,7 +13,7 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 
 ## 📫 Connect with me!
-[![SITE](https://img.shields.io/badge/site-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://yushun.chen.zone)
+[![🌐SITE](https://img.shields.io/badge/site-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://yushun.chen.zone)
 [![INSTAGRAM](https://img.shields.io/badge/Instagram-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.instagram.com/yc815mc/)
 [![EMAIL](https://img.shields.io/badge/email-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](mailto:yushun@chen.zone)
 [![PHONE](https://img.shields.io/badge/phone-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](tel:+886906781585)
