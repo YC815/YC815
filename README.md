@@ -16,7 +16,7 @@
 - 🌐SITE: [https://yushun.chen.zone](https://yushun.chen.zone)
 - 📸INSTAGRAM: [https://www.instagram.com/yc815mc/](https://www.instagram.com/yc815mc/)
 - 📧EMAIL: yushun@chen.zone
-- [📞PHONE]: [+886-906-781-585](tel:+886906781585)
+- 📞PHONE: [+886-906-781-585](tel:+886906781585)
 
 ---
 🚀 **Let's create amazing things together!**
