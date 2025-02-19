@@ -3,8 +3,8 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YC815&show_icons=true&theme=radical)
 
 ## 🚀 About Me
-💡 我是一名 學生
-🔭 熱衷於 Python腳本開發、網頁設計
+💡 我是一名 學生<br>
+🔭 熱衷於 Python腳本開發、網頁設計<br>
 
 ## 🛠 Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -13,10 +13,10 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 
 ## 📫 Connect with me!
-- 🌐 SITE: [https://yushun.chen.zone](https://yushun.chen.zone)
-- 📸 INSTAGRAM: [https://www.instagram.com/yc815mc/](https://www.instagram.com/yc815mc/)
-- 📧 EMAIL: yushun@chen.zone
-- 📞 PHONE: +886-906-781-585
+🌐 SITE: [https://yushun.chen.zone](https://yushun.chen.zone)<br>
+📸 INSTAGRAM: [https://www.instagram.com/yc815mc/](https://www.instagram.com/yc815mc/)<br>
+📧 EMAIL: yushun@chen.zone<br>
+📞 PHONE: +886-906-781-585<br>
 
 ---
 🚀 **Let's create amazing things together!**
