@@ -13,10 +13,10 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 
 ## 📫 Connect with me!
-- 🌐SITE: [https://yushun.chen.zone](https://yushun.chen.zone)
-- 📸INSTAGRAM: [https://www.instagram.com/yc815mc/](https://www.instagram.com/yc815mc/)
-- 📧EMAIL: yushun@chen.zone
-- 📞PHONE: [+886-906-781-585](tel:+886906781585)
+- 🌐 SITE: [https://yushun.chen.zone](https://yushun.chen.zone)
+- 📸 INSTAGRAM: [https://www.instagram.com/yc815mc/](https://www.instagram.com/yc815mc/)
+- 📧 EMAIL: yushun@chen.zone
+- 📞 PHONE: +886-906-781-585
 
 ---
 🚀 **Let's create amazing things together!**
