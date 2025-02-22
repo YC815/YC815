@@ -4,7 +4,7 @@
 
 ## 🚀 About Me
 💡 我是一名 學生<br>
-🔭 熱衷於 Python腳本開發、網頁設計<br>
+🔭 熱衷於 Python腳本開發＆網頁設計<br>
 
 ## 🛠 Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
