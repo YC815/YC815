@@ -15,6 +15,7 @@
 ## 📫 Connect with me!
 🌐 SITE: [https://yushun.chen.zone](https://yushun.chen.zone)<br>
 📸 INSTAGRAM: [https://www.instagram.com/yc815mc/](https://www.instagram.com/yc815mc/)<br>
+🐦 X: [https://x.com/Yushun0815](https://x.com/Yushun0815)
 📧 EMAIL: yushun@chen.zone<br>
 📞 PHONE: +886-906-781-585<br>
 
