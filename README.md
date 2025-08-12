@@ -20,7 +20,7 @@
 🌐 SITE: [https://yushun.chen.zone](https://yushun.chen.zone)<br>
 📸 SOCIAL MIDEA: [https://sc.chen.zone](https://sc.chen.zone)<br>
 📧 EMAIL: yushun@chen.zone<br>
-📞 PHONE: [+886-906-781-585](call:+886906781585)<br>
+📞 PHONE: [+886-906-781-585](tel:+886906781585)<br>
 
 ---
 🚀 **Let's create amazing things together!**
